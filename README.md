@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: JANANI.S</h3>
-<h3>Register Number: 212222230049</h3>
+<h3>Name: Yamunaasri T S</h3>
+<h3>Register Number: 212222240117</h3>
 <h3>Aim:</h3>
 To find the PEAS description for the given AI problem and develop an AI agent.
 <h3>Theory:</h3>
